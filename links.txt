@@ -1,0 +1,5 @@
+https://bitbucket.org/iluvatar/scientific-computing-part-02/wiki/VersionControlGit
+
+http://swcarpentry.github.io/git-novice/
+
+www.cplusplus.com/doc/tutorial
