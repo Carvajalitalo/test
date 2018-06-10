@@ -1,7 +1,7 @@
 // programa que calcula el area de una triangulo usando funciones
 #include <iostream>
 
-float area(float)
+float area(float r)
 {
   float x, a, b;
   
